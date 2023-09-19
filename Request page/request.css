@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+}
+
+.h5 {
+    color: #06A3DA;
+    font-weight: 800;
+}
+
+.h1 {
+    font-weight: 800;
+}
+
+.icon {
+    color: #06A3DA;
+}
+
+.contact-icon-text {
+    font-family: "Nunito", sans-serif;
+    line-height: 1.2;
+    color: #091E3E;
+    font-size: 1.25rem;
+}
+
+.paragraph {
+    margin-top: 0;
+    color: #6B6A75;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.phone-icon {
+    width: 60px;
+    height: 60px;
+    background-color: #06A3DA;
+}
+
+.call-text {
+    line-height: 1.2;
+    font-weight: 600;
+    color: #091E3E;
+}
+
+.call-number {
+    color: #06A3DA;
+    font-weight: 700;
+}
+
+.form-container {
+    background-color: #06A3DA;
+}
+
+.form-control {
+    height: 55px;
+}
+
+.form-select {
+    height: 55px;
+    color: #6B6A75;
+    background-color: #EEF9FF
+}
+
+.Message {
+    width: 100%;
+    border: none;
+}
+
+.btn-color {
+    color: #fff;
+    background-color: #091E3E;
+}
